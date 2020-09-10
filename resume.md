@@ -1,60 +1,55 @@
 ---
 layout: page
-title: Résumé
-subtitle: An awesome person
+title: 黄同学
+subtitle: 专注Web
 ---
 
-<span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
+<span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> PDF下载</strong></a> </span>
 <br>
 
 ### SKILLS
-``` Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sed porttitor mi. In bibendum tortor nec massa finibus, id ultricies urna pulvinar. Sed congue blandit est non sagittis. In eget lobortis ipsum. Quisque id nisl nisl. Donec nec dapibus diam. Donec vel euismod nisi.  ```  
+代写作业, 代打饭, 代拿快递, 代还书, 专业球童30年, 一条龙! 
 
 ### PROJECTS
-**Title** - Description - Place <span style="float: right; ">Time span</span>  
-Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
+**Photoshop** - 代做Ps作业 - 华联 <span style="float: right; ">毕业之前</span>  
+全华联最便宜ps作业,20块模板,100块原创,200块提需求,包过,不过包补考,个性需求定制,5T素材,够硬够强,够专业,值得信赖!
 
-**Title** - Description - Place <span style="float: right; ">Time span</span>  
-Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
+**Flash** - 代做Flash作业 - 华联 <span style="float: right; ">毕业之前</span>  
+5T素材库,咸鱼排名靠前,代写作业得找我,微信私聊:1234567犟~
 
-**Title** - Description - Place <span style="float: right; ">Time span</span>  
-Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
+**网页设计** - 动静态网页代做 - 华联 <span style="float: right; ">毕业前</span>  
+大一HTML+CSS,30块一份,大二JS,50块一份,定制100.  
 
 ### EDUCATION
 
-Institute <span style="float: right; ">Duration</span>  
-**Course**  
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit.  
+Institute <span style="float: right; ">情人节那天</span>  
+**打麻将**  
+陪同学过生日, 太晚回不起了, 通宵打麻将, 赢了200块, 卧槽, 我还挺有天赋的, 都想改行打麻将.
  
-Institute <span style="float: right; ">Duration</span>  
-**Course**  
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit.  
+Institute <span style="float: right; ">大前天</span>  
+**摇甩子**  
+喝多了,我忘记了.
 
-Institute <span style="float: right; ">Duration</span>  
-**Course**  
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit. 
-
+Institute <span style="float: right; ">今天</span>  
+**敲代码** 
+``` 
+	public static void main(String[] args){
+		System.out.println("HelloWorld");
+	}
+```
 ### EXPERIENCE
 
-Title - **Comapany** <span style="float: right; ">Duration</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
+Title - **百胜中国** <span style="float: right; ">2018/10/01-2018/04/05</span>  
+肯德基做汉堡
 
  
-Title - **Comapany** <span style="float: right; ">Duration</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
+Title - **广州无极限健康营养咨询有限公司** <span style="float: right; ">2016/06/18-2016/11/24</span>  
+打杂
 
-Title - **Comapany** <span style="float: right; ">Duration</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
+Title - **我家门前工地** <span style="float: right; ">2020/05/10-2020/05/20</span>  
+纯手工跨区域资源调配与综合管理师, 大家都管这叫搬砖.
 
 
 ### RECOGNITION & INTERESTS
 
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
+- 校内网页设计二等奖 & 打球

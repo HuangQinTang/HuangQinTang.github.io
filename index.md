@@ -10,5 +10,5 @@ sitemap:
 
 <div id="describe-text">
 	<p>Jscript, Vue, PHP, ThinkPHP, Laravel, Linux 冲冲冲~</p>
-	<p>Wake up! Wake up! Wake up!<strong> <!--<a href="https://github.com/knhash/Pudhina"> repository</a> </strong>--></p>
+	<p>Wake up! Wake up! Wake up!<!--<strong> <a href="https://github.com/knhash/Pudhina"> repository</a> </strong>--></p>
 </div>
