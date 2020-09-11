@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+{% include meta_tags/base.html %}
+{% include externals/styling.html %}
+<style type="text/css">
+    ul{list-style: none;}
+    li{
+        border:1px solid pink;
+        margin:10px;
+        padding: 10px;
+    }
+    .last{
+        position: relative;
+        border: 0;
+        text-align: right;
+        line-height: 30px;
+    }
+    .off{
+        position: relative;
+        display: none;
+    }
+    .button{
+        position: absolute;
+        height: 30px;
+        left: 50%;
+        transform: translateX(-50%);
+        margin-top: -30px;
+        margin-left: 338px;
+    }
+    .content{
+        position: relative;
+    }
+</style>
+</head>
+<body>
+<div class="wrapper">
+{% include header.html %}
+{{ content }}
+</div>
+{% include externals/scripting.html %}
+{% include externals/scrmessage.html %}
+</body>
+</html>
